@@ -1,0 +1,37 @@
+C:\Users\Thanh\source\repos\DoAnQLBH\DoAnQLBH\bin\Debug\DoAnQLBH.exe.config
+C:\Users\Thanh\source\repos\DoAnQLBH\DoAnQLBH\bin\Debug\DoAnQLBH.exe
+C:\Users\Thanh\source\repos\DoAnQLBH\DoAnQLBH\bin\Debug\DoAnQLBH.pdb
+C:\Users\Thanh\source\repos\DoAnQLBH\DoAnQLBH\obj\Debug\DoAnQLBH.csproj.AssemblyReference.cache
+C:\Users\Thanh\source\repos\DoAnQLBH\DoAnQLBH\obj\Debug\DoAnQLBH.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thanh\source\repos\DoAnQLBH\DoAnQLBH\obj\Debug\DoAnQLBH.Properties.Resources.resources
+C:\Users\Thanh\source\repos\DoAnQLBH\DoAnQLBH\obj\Debug\DoAnQLBH.csproj.GenerateResource.cache
+C:\Users\Thanh\source\repos\DoAnQLBH\DoAnQLBH\obj\Debug\DoAnQLBH.csproj.CoreCompileInputs.cache
+C:\Users\Thanh\source\repos\DoAnQLBH\DoAnQLBH\obj\Debug\DoAnQLBH.exe
+C:\Users\Thanh\source\repos\DoAnQLBH\DoAnQLBH\obj\Debug\DoAnQLBH.pdb
+C:\Users\Thanh\source\repos\DoAnQLBH\DoAnQLBH\obj\Debug\DoAnQLBH.frmMain.resources
+C:\Users\Thanh\source\repos\DoAnQLBH\DoAnQLBH\obj\Debug\DoAnQLBH.frmLogin.resources
+C:\Users\Thanh\source\repos\DoAnQLBH\DoAnQLBH\obj\Debug\DoAnQLBH.frmSanPham.resources
+C:\Users\Thanh\source\repos\DoAnQLBH\DoAnQLBH\obj\Debug\DoAnQLBH.frmDonHang.resources
+C:\Users\Thanh\source\repos\DoAnQLBH\DoAnQLBH\obj\Debug\DoAnQLBH.frmBaoCao.resources
+C:\Users\Thanh\source\repos\DoAnQLBH\DoAnQLBH\obj\Debug\DoAnQLBH.frmKhachHang.resources
+C:\Users\Thanh\source\repos\DoAnQLBH\DoAnQLBH\obj\Debug\DoAnQLBH.frmNhanVien.resources
+C:\Users\Thanh\Downloads\DoAnQLBH (1)\DoAnQLBH\DoAnQLBH\bin\Debug\DoAnQLBH.exe.config
+C:\Users\Thanh\Downloads\DoAnQLBH (1)\DoAnQLBH\DoAnQLBH\bin\Debug\DoAnQLBH.exe
+C:\Users\Thanh\Downloads\DoAnQLBH (1)\DoAnQLBH\DoAnQLBH\bin\Debug\DoAnQLBH.pdb
+C:\Users\Thanh\Downloads\DoAnQLBH (1)\DoAnQLBH\DoAnQLBH\obj\Debug\DoAnQLBH.csproj.AssemblyReference.cache
+C:\Users\Thanh\Downloads\DoAnQLBH (1)\DoAnQLBH\DoAnQLBH\obj\Debug\DoAnQLBH.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thanh\Downloads\DoAnQLBH (1)\DoAnQLBH\DoAnQLBH\obj\Debug\DoAnQLBH.frmBaoCao.resources
+C:\Users\Thanh\Downloads\DoAnQLBH (1)\DoAnQLBH\DoAnQLBH\obj\Debug\DoAnQLBH.frmNhanVien.resources
+C:\Users\Thanh\Downloads\DoAnQLBH (1)\DoAnQLBH\DoAnQLBH\obj\Debug\DoAnQLBH.frmDonHang.resources
+C:\Users\Thanh\Downloads\DoAnQLBH (1)\DoAnQLBH\DoAnQLBH\obj\Debug\DoAnQLBH.frmKhachHang.resources
+C:\Users\Thanh\Downloads\DoAnQLBH (1)\DoAnQLBH\DoAnQLBH\obj\Debug\DoAnQLBH.frmMain.resources
+C:\Users\Thanh\Downloads\DoAnQLBH (1)\DoAnQLBH\DoAnQLBH\obj\Debug\DoAnQLBH.frmLogin.resources
+C:\Users\Thanh\Downloads\DoAnQLBH (1)\DoAnQLBH\DoAnQLBH\obj\Debug\DoAnQLBH.frmSanPham.resources
+C:\Users\Thanh\Downloads\DoAnQLBH (1)\DoAnQLBH\DoAnQLBH\obj\Debug\DoAnQLBH.Properties.Resources.resources
+C:\Users\Thanh\Downloads\DoAnQLBH (1)\DoAnQLBH\DoAnQLBH\obj\Debug\DoAnQLBH.csproj.GenerateResource.cache
+C:\Users\Thanh\Downloads\DoAnQLBH (1)\DoAnQLBH\DoAnQLBH\obj\Debug\DoAnQLBH.csproj.CoreCompileInputs.cache
+C:\Users\Thanh\Downloads\DoAnQLBH (1)\DoAnQLBH\DoAnQLBH\obj\Debug\DoAnQLBH.exe
+C:\Users\Thanh\Downloads\DoAnQLBH (1)\DoAnQLBH\DoAnQLBH\obj\Debug\DoAnQLBH.pdb
+C:\Users\Thanh\Downloads\DoAnQLBH (1)\DoAnQLBH\DoAnQLBH\obj\Debug\DoAnQLBH.csproj.ResolveComReference.cache
+C:\Users\Thanh\Downloads\DoAnQLBH (1)\DoAnQLBH\DoAnQLBH\obj\Debug\DoAnQLBH.FrmDangKy.resources
+C:\Users\Thanh\Downloads\DoAnQLBH (1)\DoAnQLBH\DoAnQLBH\obj\Debug\DoAnQLBH.FrmDoiMatKhau.resources
